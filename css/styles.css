@@ -1,0 +1,40 @@
+#logo-back {
+  background-image: url("../img/landing.jpg");
+  background-position: center;
+  background-size: 150px;
+  background-size: cover;
+  text-align: center;
+  font-family: monospace;
+  height: auto;
+  width: auto;
+}
+
+.logoBig {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: auto;
+}
+
+ {
+  width: 300px;
+  height: 200px;
+  background-image: url("../img/breakfast.jpg");
+}
+.breakfast-img {
+  width:100%;
+}
+
+.tinted-image-br {
+  width: 300px;
+  height: 200px;
+  background-image: url("../img/breakfast.jpg");
+}
