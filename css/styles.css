@@ -26,12 +26,12 @@ body {
 }
 
 .happy {
-  background-color: grey;
+  background-color: #d4d4d4;
   height: 100px;
   width: 110%;
-  text-align: center;
-  font-family: 'Markazi Text', serif;
-  font-size: 60px;
+  text-align: center;font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
 }
 
 .party {
@@ -39,8 +39,8 @@ body {
   height: 110px;
   width: 110%;
   text-align: center;
-  font-family: 'Markazi Text', serif;
-  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
   color: white;
 }
 
